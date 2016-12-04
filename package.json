@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "cipepser <respepic@gmail.com>",
-  "description": "test bot for slack",
+  "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
